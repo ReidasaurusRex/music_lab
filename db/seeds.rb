@@ -1,0 +1,5 @@
+Artist.create({name: "Bob Dylan", genre: "Folk"})
+Artist.create({name: "Explosions in the Sky", genre: "Post Rock"})
+Artist.create({name: "Richard Thompson", genre: "Folk"})
+Artist.create({name: "Yonder Mountain String Band", genre: "Bluegrass"})
+Artist.create({name: "The Strokes", genre: "Rock"})
