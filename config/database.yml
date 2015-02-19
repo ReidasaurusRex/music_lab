@@ -1,0 +1,3 @@
+developtment: 
+  adapter: postgresql
+  database: music_app
